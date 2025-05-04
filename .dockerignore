@@ -1,0 +1,3 @@
+# compose/.dockerignore
+backups/
+*.bak
